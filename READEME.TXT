@@ -1,0 +1,20 @@
+ What else can you do with Node Packages?
+	Other Node packages include:
+		Create-React-App : used to create React apps.
+		Lodash: A javascript helper library for strings, arrays, and objects.
+		Colors.js: Adds color and style to Node.js.
+
+ What else can you do with Express? 
+	Express.js is a Node.js web application server framework.
+	You can manage routes, requests, and views. 
+
+ What other technologies could you use instead of Express?
+	I found a web page for alternatives to Express that lists:
+		Meteor , FeathersJs, Koa, Nest and others.  
+		I am not familiar with any of these.
+
+
+ How is hosting in Express different than how you've hosted before?
+	ExpressJs runs on the server side,
+	no HTML file is needed,
+	it is cross-platform.
